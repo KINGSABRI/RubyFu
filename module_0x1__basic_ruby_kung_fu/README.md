@@ -69,6 +69,8 @@ while line = Readline.readline('-> ', true)
 end
 {%endace%}
 
+
+
 Now run it and try the tab completion!
 
 Well, The man idea in known the tab completion is make to do things easier not just pressing tab. Here a simple thought

@@ -6,7 +6,8 @@
         "book-summary-scroll-position-saver",
         "addcssjs",
         "expandable-chapters",
-        "ace"
+        "ace",
+        "theme-arangodb"
     ],
     "pluginsConfig": {
         "addcssjs": {

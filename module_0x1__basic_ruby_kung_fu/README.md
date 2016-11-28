@@ -44,7 +44,7 @@ The Readline module provides interface for GNU Readline. This module defines a n
 
 **console-basic1.rb**
 
-```ruby
+{%ace edit=true, lang='c_cpp'%}
 #!/usr/bin/env ruby
 # KING SABRI | @KINGSABRI
 # 
@@ -67,7 +67,8 @@ while line = Readline.readline('-> ', true)
   puts line unless line.nil? or line.squeeze.empty?
   break if line =~ /^quit.*/i or line =~ /^exit.*/i
 end
-```
+{%endace%}
+
 Now run it and try the tab completion!
 
 Well, The man idea in known the tab completion is make to do things easier not just pressing tab. Here a simple thought

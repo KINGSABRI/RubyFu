@@ -44,7 +44,7 @@ The Readline module provides interface for GNU Readline. This module defines a n
 
 **console-basic1.rb**
 
-{%ace edit=false, lang='ruby'%}
+{%ace edit=false, theme='monokai' lang='ruby'%}
 #!/usr/bin/env ruby
 # KING SABRI | @KINGSABRI
 # 

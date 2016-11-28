@@ -7,7 +7,8 @@
         "addcssjs",
         "expandable-chapters",
         "ace",
-        "theme-arangodb"
+        "theme-arangodb",
+        "language-picker"
     ],
     "pluginsConfig": {
         "addcssjs": {

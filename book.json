@@ -7,7 +7,7 @@
         "addcssjs",
         "expandable-chapters",
         "ace",
-        "-language-picker"
+        "language-picker"
     ],
     "pluginsConfig": {
         "addcssjs": {

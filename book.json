@@ -14,6 +14,9 @@
             "js": [
                 "styles/header.js"
             ]
+        },
+        "language-picker": {
+            "grid-columns": "4"
         }
     },
     "styles": {

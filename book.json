@@ -24,7 +24,8 @@
     },
    "richquotes": {
         "star": {
-                "alert": "note"
+                "alert": "note",
+                "picto": "fa-star"
          }
     }
 }

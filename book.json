@@ -7,7 +7,6 @@
         "addcssjs",
         "expandable-chapters",
         "ace",
-        "language-picker",
         "richquotes"
     ],
     "pluginsConfig": {

@@ -21,12 +21,6 @@
     },
     "styles": {
         "website": "styles/website.css"
-    },
-   "richquotes": {
-        "star": {
-                "alert": "note",
-                "picto": "fa-star"
-         }
     }
 }
 

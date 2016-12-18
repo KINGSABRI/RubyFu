@@ -37,5 +37,7 @@ width: 67px;"
   height: 55px;
   background: #444;
 }
-
+.book .book-summary ul.summary li a:hover {
+    background: none ;
+}
 

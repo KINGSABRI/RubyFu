@@ -42,4 +42,7 @@ width: 67px;"
     .book-body {
         left: 0;
     }
+    #logo img {
+        margin-left: 0;
+    }
 }

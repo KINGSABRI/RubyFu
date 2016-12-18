@@ -38,6 +38,6 @@ width: 67px;"
   background: #444;
 }
 .book .book-summary ul.summary li a:hover {
-    background: none ;
+    background: none !important;
 }
 

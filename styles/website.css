@@ -40,7 +40,7 @@ width: 67px;"
 
 @media (max-width: 768px) {
     .book-body {
-        left: 0;
+        left: 0 !important;
     }
     #logo img {
         margin-left: 0;

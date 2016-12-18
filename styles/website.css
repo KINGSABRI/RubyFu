@@ -38,3 +38,8 @@ width: 67px;"
   background: #444; 
 }
 
+@media (max-width: 768px) {
+    .book-body {
+        left: 0;
+    }
+}

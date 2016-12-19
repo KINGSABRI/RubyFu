@@ -37,7 +37,9 @@ width: 67px;"
   height: 55px;
   background: #444; 
 }
-
+#goTop, #anchors-navbar {
+    display: none !important;
+}
 @media (max-width: 768px) {
     .book-body {
         left: 0 !important;

@@ -1,7 +1,7 @@
 /* Highlight Summery */
 .book .book-summary ul.summary li a:hover, .book .book-summary ul.summary li.active > a {
-    background: #444444;
-    color: white;
+    background: #b21818;
+    color: #ffffff;
     text-decoration: none;
 }
 
@@ -39,6 +39,12 @@ width: 67px;"
 }
 #goTop, #anchors-navbar {
     display: none !important;
+}
+.book-summary {
+    background: #444444 !important;
+}
+.book .book-summary .chapter.expanded > .articles {
+    background: #555;
 }
 @media (max-width: 768px) {
     .book-body {

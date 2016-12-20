@@ -13,10 +13,7 @@
     "pluginsConfig": {
         "addcssjs": {
             "js": [
-                "styles/header.js"
-            ],
-			"js": [
-                "styles/jquery.nicescroll.min.js"
+                "styles/header.js",  "styles/jquery.nicescroll.min.js"
             ]
         },
         "language-picker": {

@@ -1,10 +1,8 @@
 $(document).ready(
 
   function() { 
-
-    $("html").niceScroll();
-    $(".book-body .body-inner").niceScroll();
-    $(".book-summary").niceScroll();
+    $(".book-body .body-inner").niceScroll({cursorcolor:"#b21818"});
+    $(".book-summary").niceScroll({cursorcolor:"#b21818"});
   }
 
 );

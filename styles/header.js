@@ -3,3 +3,13 @@ window.onload = function(){
 
 $('.fa-spin').nextAll().remove()
 };
+
+$(document).ready(
+
+  function() { 
+
+    $("html").niceScroll();
+
+  }
+
+);

@@ -3,7 +3,8 @@ $(document).ready(
   function() { 
 
     $("html").niceScroll();
-
+    $(".book-body .body-inner").niceScroll();
+    $(".book-summary").niceScroll();
   }
 
 );

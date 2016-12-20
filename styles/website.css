@@ -46,6 +46,9 @@ width: 67px;"
 .book .book-summary .chapter.expanded > .articles {
     background: #555;
 }
+.book-summary ul.summary li a, .book-summary ul.summary li span {
+    color: #fff;
+}
 @media (max-width: 768px) {
     .book-body {
         left: 0 !important;

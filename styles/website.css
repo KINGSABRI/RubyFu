@@ -64,6 +64,10 @@ width: 67px;"
 body {
     padding-top: 55px;
 }
+.book .book-body .page-wrapper .page-inner section.normal pre, .book .book-body .page-wrapper .page-inner section.normal code {
+    background: #272822;
+    color: #fff;
+}
 @media (max-width: 768px) {
     .book-body {
         left: 0 !important;

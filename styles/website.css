@@ -68,6 +68,10 @@ body {
     background: #272822;
     color: #fff;
 }
+#book-search-input {
+    background: #444;
+    color: #fff;
+}
 @media (max-width: 768px) {
     .book-body {
         left: 0 !important;

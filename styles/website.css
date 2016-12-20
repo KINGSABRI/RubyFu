@@ -55,6 +55,9 @@ width: 67px;"
 .navigation, .book-header .btn {
     color: #b21818;
 }
+.markdown-section a {
+    color: #b21818;
+}
 @media (max-width: 768px) {
     .book-body {
         left: 0 !important;

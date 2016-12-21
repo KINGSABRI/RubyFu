@@ -14,7 +14,7 @@ $(document).ready( function () {
                                   "border-radius":"5px 0px 0px 5px"
                                 });
   
-   $(".fa-facebook").parent().css({ "position": "fixed",
+   $(".fa-twitter").parent().css({ "position": "fixed",
                                   "top": "45%",
                                   "right":"-3px",
                                   "color":"#FFF",

@@ -9,7 +9,7 @@ $(document).ready(
                                   "width":"45px",
                                   "height":"45px",
                                   "text-align":"center",
-                                  "padding":"2px",
+                                  "padding":"0px",
                                   "font-size":"23px",
                                   "border-radius":"5px 0px 0px 5px"
                                 });

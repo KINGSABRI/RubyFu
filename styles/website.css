@@ -72,6 +72,10 @@ body {
     background: #444;
     color: #fff;
 }
+.markdown-section pre {
+    border: 3px solid #999;
+    border-radius: 10px;
+}
 @media (max-width: 768px) {
     .book-body {
         left: 0 !important;

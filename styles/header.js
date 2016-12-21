@@ -14,6 +14,19 @@ $(document).ready( function () {
                                   "border-radius":"5px 0px 0px 5px"
                                 });
   
+   $(".fa-facebook").parent().css({ "position": "fixed",
+                                  "top": "45%",
+                                  "right":"-3px",
+                                  "color":"#FFF",
+                                  "background":"#1da1f2",
+                                  "width":"45px",
+                                  "height":"45px",
+                                  "text-align":"center",
+                                  "padding":"0px",
+                                  "font-size":"23px",
+                                  "border-radius":"5px 0px 0px 5px"
+                                });
+  
  
 
 

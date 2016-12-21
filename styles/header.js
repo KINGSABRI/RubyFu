@@ -1,19 +1,7 @@
 $(document).ready(
   
-   var face_style = {
-  "position": "fixed",
-  "top": "30%",
-  "right":"0",
-  "color":"#FFF",
-  "background":"#3b5998",
-  "width":"45px",
-  "height":"45px",
-  "text-align":"center",
-  "padding":"2px",
-  "font-size":"23px",
-  "border-radius":"5px 0px 0px 5px"
-  };
-  $(".fa-facebook").parent().css(face_style);
+   
+ 
 
   function() { 
     $(".book-body .body-inner").niceScroll({cursorcolor:"#b21818"});

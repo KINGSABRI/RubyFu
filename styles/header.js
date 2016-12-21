@@ -3,7 +3,7 @@ $(document).ready(
    
  $(".fa-facebook").parent().css({ "position": "fixed",
                                   "top": "30%",
-                                  "right":"0",
+                                  "right":"-3px",
                                   "color":"#FFF",
                                   "background":"#3b5998",
                                   "width":"45px",
